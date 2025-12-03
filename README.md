@@ -25,7 +25,7 @@ This repository contains the implementation of the **CometChat UI Kit for React*
 
 ### 2. UI Kit Configuration (Builder)
 *The configuration process in the CometChat Dashboard where I customized the layout and theme.*
-![UI Kit Builder](./Screenshot%202025-12-03%20125114.jpg)
+![UI Kit Builder](./Screenshot%202025-12-03%20125114.png)
 
 ### 3. Chat Interface (Dark Mode)
 *The fully functional chat interface running on `localhost:3000`.*
